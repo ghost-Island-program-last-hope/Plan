@@ -2,7 +2,9 @@
 
 ## Create
 
-Using PR to add new activity.
+1. 請使用 PR 新增活動
+2. 活動確定進行時，請開 Issue 並說明活動
+3. 活動完畢後請將 Issue 關閉
 
 ## Activity
 

@@ -1,8 +1,10 @@
 # [ghost-Island-program-last-hope](https://github.com/ghost-Island-program-last-hope)
 
----
+## Create
 
-## TodoList
+Using PR to add new activity.
+
+## Activity
 
 ### Front-end
 

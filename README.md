@@ -2,7 +2,12 @@
 
 ## Create
 
-1. 請到 [活動投稿](https://github.com/ghost-Island-program-last-hope/Plan/issues/3) 新增活動
+
+  
+    
+      
+    
+  1. 請到 [願望清單](https://github.com/ghost-Island-program-last-hope/Plan/issues/3) 新增活動
 2. 活動確定進行時，請開 Issue 並說明活動
 3. 活動完畢後請將 Issue 關閉
 
@@ -22,6 +27,7 @@
 - [ ] [Phaser](https://phaser.io/) 用 phaser 寫一個小朋友下樓梯
 - [ ] [RxJS](https://github.com/Reactive-Extensions/RxJS) 試著建立觀察者與訂閱者
 - [ ] [hyperapp](https://hyperapp.js.org) 微型前端框架 小而美
+- [ ] [wasm](http://webassembly.org.cn)
 
 ### Back-end
 

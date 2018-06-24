@@ -2,12 +2,7 @@
 
 ## Create
 
-
-  
-    
-      
-    
-  1. 請到 [願望清單](https://github.com/ghost-Island-program-last-hope/Plan/issues/3) 新增活動
+1. 請到 [願望清單](https://github.com/ghost-Island-program-last-hope/Plan/issues/3) 新增活動
 2. 活動確定進行時，請開 Issue 並說明活動
 3. 活動完畢後請將 Issue 關閉
 
@@ -37,7 +32,7 @@
 - [ ] [Express](https://github.com/expressjs/express) - nodejs框架的一種
 - [ ] [apollo-server](https://github.com/apollographql/apollo-server) - GraphQL server
 - [ ] [deno](https://github.com/ry/deno) A secure TypeScript runtime on V8
-
+- [ ] [discord](https://discordapp.com/developers) Create a discord bot
 ### Application
 
 - [ ] [C# Winform](https://msdn.microsoft.com/zh-tw/library/dd492132.aspx) - 寫個Windows表單應用程式

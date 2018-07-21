@@ -28,7 +28,7 @@
 ### Back-end
 
 - [ ] [Fastify](https://github.com/fastify/fastify) - nodejs框架的一種
-- [ ] [Rust](https://github.com/rust-lang/rust) - 預計2019~2020會復甦的後端 - 實作 http-server
+- [x] [Rust](https://github.com/rust-lang/rust) - 預計2019~2020會復甦的後端 - 實作 http-server
 - [ ] [Go](https://github.com/golang/go) - 2017年開始熱門的後端 - 實作 http-server
 - [ ] [Express](https://github.com/expressjs/express) - nodejs框架的一種
 - [ ] [apollo-server](https://github.com/apollographql/apollo-server) - GraphQL server

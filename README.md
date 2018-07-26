@@ -34,6 +34,8 @@
 - [ ] [apollo-server](https://github.com/apollographql/apollo-server) - GraphQL server
 - [ ] [deno](https://github.com/ry/deno) A secure TypeScript runtime on V8
 - [x] [discord](https://discordapp.com/developers) Create a discord bot
+- [ ] [juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
+
 ### Application
 
 - [ ] [C# Winform](https://msdn.microsoft.com/zh-tw/library/dd492132.aspx) - 寫個Windows表單應用程式

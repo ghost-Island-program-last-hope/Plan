@@ -17,13 +17,14 @@
 - [x] [Angular](https://github.com/angular/angular) -  三大前端框架 - Angular2+
 - [ ] [GoogleMapAPI](https://developers.google.com/maps/documentation/javascript/?hl=zh-tw) 地圖操作 繪製一些圖型 套疊台灣圖型 (**黑客松比賽很常用到**)
 - [ ] [How to write your own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060) 實作 Virtual DOM
-- [ ] [Flex 排版小遊戲](https://flexboxfroggy.com/) 基於 flex 的小青蛙排版 很好懂 ⭐️
+- [x] [Flex 排版小遊戲](https://flexboxfroggy.com/) 基於 flex 的小青蛙排版 很好懂 ⭐️
 - [ ] [CSS - Pseudo Element](http://www.oxxostudio.tw/articles/201706/pseudo-element-1.html) 偽元素的使用(before, after)
 - [ ] [Phaser](https://phaser.io/) 用 phaser 寫一個小朋友下樓梯
 - [ ] [RxJS](https://github.com/Reactive-Extensions/RxJS) 試著建立觀察者與訂閱者
 - [ ] [hyperapp](https://hyperapp.js.org) 微型前端框架 小而美
 - [ ] [wasm](http://webassembly.org.cn)
 - [ ] [AMP](https://www.ampproject.org/) AMP 實作
+- [ ] [Angular Material](https://ithelp.ithome.com.tw/articles/10192187) - [github-material2](https://github.com/angular/material2)
 
 ### Back-end
 

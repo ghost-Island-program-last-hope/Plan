@@ -65,6 +65,7 @@
 - [ ] [WordNet](https://wordnet.princeton.edu/)
 - [ ] [Apache OpenNLP](https://opennlp.apache.org/)
 - [ ] [使用Python進行資料分析](https://ithelp.ithome.com.tw/users/20107514/ironman/1399)
+- [ ] [以100張圖理解 Neural Network -- 觀念與實踐 系列](https://ithelp.ithome.com.tw/users/20001976/ironman/1395)
 
 ### OS
 - [ ] [Apache Spark](https://spark.apache.org/)
